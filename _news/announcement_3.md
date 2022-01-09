@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-12-24 12:22:00+0900
 inline: true
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+**"Dopia: Online Parallelism Management for Integrated CPU/GPU Architectures"**  
+has been accepted to **PPoPP'22**!  
+Congratulations to the authors!
